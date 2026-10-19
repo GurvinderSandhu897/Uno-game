@@ -2,6 +2,9 @@
 
 A browser UNO game: you against 3 computer players. Built with MongoDB, Express, React (Vite) and Node.
 
+**Live demo:** https://uno-game-rho.vercel.app/
+(Hosted on a free plan: the first load can take up to a minute while the server wakes up.)
+
 ## Features
 
 - 4-player UNO with house rules (see below)
